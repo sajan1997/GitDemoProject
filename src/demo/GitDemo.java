@@ -4,7 +4,7 @@ public class GitDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num1 = 10;
+		int num1 = 60;
 		int num2 = 50;
 		
 		if(num1 > num2) {
